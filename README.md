@@ -2,7 +2,7 @@
 
 ## Описание
 
-Ссылка на readme по проекту.
+[readme по проеку "Mesto.Russia"](https://github.com/AlexMrgt/react-mesto-auth)
 
 ## Что нового:
 
